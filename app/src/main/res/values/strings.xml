@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">RumahIN</string>
+    <string name="app_logo">Logo RumahIn</string>
+    <string name="favorite">Tandai sebagai favorit</string>
+    <string-array name="category_array">
+        <item>Rumah</item>
+        <item>Kontrakan</item>
+        <item>Kos</item>
+        <item>Apartment</item>
+    </string-array>
+    <string name="house_image">Gambar Rumah</string>
+    <string name="house_detail_title">Detail Rumah</string>
+    <string name="placeholder_title">Judul Rumah</string>
+    <string name="placeholder_price">Rp 0</string>
+    <string name="placeholder_bedrooms">3 Kamar</string>
+    <string name="placeholder_bathrooms">2 Kamar Mandi</string>
+    <string name="placeholder_area">120 m²</string>
+    <string name="description_title">Deskripsi</string>
+    <string name="placeholder_description">Deskripsi rumah akan ditampilkan di sini.</string>
+    <string name="location_title">Lokasi</string>
+    <string name="placeholder_location">Alamat rumah</string>
+    <string name="contact_title">Kontak Agen</string>
+    <string name="placeholder_agent_name">Nama Agen</string>
+    <string name="placeholder_agent_phone">0812-3456-7890</string>
+    <string name="contact_agent">Hubungi Agen</string>
+</resources>
